@@ -9,10 +9,6 @@ http://learngitbranching.js.org
 
 
 
-
-## websites for general informations
-
-
 ### standard python things
 
 http://www.fullstackpython.com 
@@ -33,3 +29,9 @@ https://github.com/jakevdp/PythonDataScienceHandbook
 
 http://www.kaggle.com
         - Datascience things: good to look at different ways to analyse data with python
+
+
+### Webscraping 
+
+https://www.youtube.com/watch?v=aIPqt-OdmS0 
+	- useful video tutorial on BS4 and general webscraping stuffs
