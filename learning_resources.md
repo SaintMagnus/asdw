@@ -1,5 +1,15 @@
 # Place to store useful learning material
 
+
+## Number 1 priority! learn git!
+ 
+http://learngitbranching.js.org
+	- useful tutorial on git NOT GITHUB 2 different things!
+
+
+
+
+
 ## websites for general informations
 
 http://www.fullstackpython.com 
