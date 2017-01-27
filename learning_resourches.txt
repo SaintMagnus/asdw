@@ -1,0 +1,5 @@
+# websites for general informations
+
+http://www.fullstackpython.com 
+	- General information about everything python related.
+
