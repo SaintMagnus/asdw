@@ -21,6 +21,8 @@ https://developers.google.com/edu/python/set-up
 https://guides.github.com/features/mastering-markdown/
 	- for making better textfiles on github :)
 
+https://github.com/vinta/awesome-python
+	- list over all packages that you would need 
 
 ### datascience python
 
@@ -35,3 +37,4 @@ http://www.kaggle.com
 
 https://www.youtube.com/watch?v=aIPqt-OdmS0 
 	- useful video tutorial on BS4 and general webscraping stuffs
+
