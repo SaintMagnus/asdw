@@ -1,0 +1,18 @@
+name=input("What is your name? ")
+
+print ("Hello ", name)
+print ("Welcome to the world of Drakmir")
+print ("Please pick a class ")
+print (" Archer")
+print (" Guard")
+
+Class1=input("")
+
+print ("You have selected", Class1)
+
+Archerstats= ("Dex, Wis")
+Guardstats= ("Str, Con")
+if Class1==input("Archer"):
+    print ("Your stats ", Archerstats )
+elif Class1==input("Guard"):
+    print ("Your stats ", Guardstats )
